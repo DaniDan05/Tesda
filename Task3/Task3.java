@@ -1,5 +1,3 @@
-package Tesda.Task3;
-
 public class Task3 {
     public static void main(String[] args) {
         // String a = new String("Wow");
