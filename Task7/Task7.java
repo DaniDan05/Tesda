@@ -32,5 +32,6 @@ public class Task7 {
         System.out.println("Multiply: " + multiply(val1, val2) );
         System.out.println("Divide: " + divide(val1, val2));
 
+        input.close();
     }
 }
