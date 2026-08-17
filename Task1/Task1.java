@@ -1,4 +1,3 @@
-
 public class Task1 {
     /**
      * The main method is the entry point of the program.

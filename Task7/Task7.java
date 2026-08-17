@@ -15,6 +15,11 @@ public class Task7 {
     }
 
     private static double divide(final double x, final double y) {
+        if (y == 0) {
+            System.out.println("Invalid...");
+            return 0;
+        }
+        
         return x / y;
     }
 

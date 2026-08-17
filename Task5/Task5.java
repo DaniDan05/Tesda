@@ -12,7 +12,7 @@ public class Task5
 		    int maxInput = inputNumbers[0];
             boolean areValuesSame = true;
 		    for(int inputNumber : inputNumbers)
-		        if (maxInput !=  inputNumber ) {
+		        if (maxInput !=  inputNumber) {
                     areValuesSame = false;
                     
                     if (maxInput < inputNumber)

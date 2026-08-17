@@ -5,12 +5,12 @@ class Student {
         this.firstName = firstName;
         this.lastName = lastName;
     }
-    void printFullName() {
+    public void printFullName() {
         System.out.println(firstName + " " + lastName);
     }
 }
 
-public class Task10{
+public class Tasksheet10{
     public static void main(String[] args) {
         Student[] students = new Student[] {
             new Student("Morgan", "Freeman"),
